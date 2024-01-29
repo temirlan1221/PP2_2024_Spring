@@ -1,3 +1,4 @@
-print(10 > 9)
-
-True
+i = 1
+while i < 12:
+  print(i)
+  i += 2

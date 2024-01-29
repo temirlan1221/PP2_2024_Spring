@@ -1,1 +1,2 @@
-print(3+4)
+if 5 > 2:
+    print("YES")

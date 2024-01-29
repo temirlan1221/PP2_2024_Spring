@@ -1,2 +1,2 @@
-if 9>5:
+if 9 > 5:
     print("True")
